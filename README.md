@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shengtudai2
 - 👀 I’m interested in Graph Neural Networl, test development, and crawler development……
-- 🌱 I’m currently learning MindSpore
+- 🌱 I’m currently learning ~~MindSpore~~ GNN and Bioinformatics
 - 📫 email:daihonggang@foxmail.com
 
 <!---
